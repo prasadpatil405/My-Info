@@ -4,16 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7ABBA&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;Data+Science+Enthusiast;Application+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VEDANTMODI21&label=Profile%20Views&color=FF69B4&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/VEDANTMODI21?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
 ## 🚀 About Me
 
 🎓 **Student** at **SRM Institute of Science and Technology, Chennai**  
 📊 **Data Science Enthusiast** exploring the world of data and analytics  
-♿ **Accessibility Advocate** building websites to help handicapped people  
 🌟 **Open to collaborate** on innovative projects and opportunities  
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -40,56 +35,36 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 </p>
 
-### Frontend
+---
+
+### 🛠️ Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyCharm-143?style=flat&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
 </p>
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
-</p>
+---
 
-### Database
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-### Data Science
+### 📚 Libraries
 <p>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java_Swing-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JAXB-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <div align="center">

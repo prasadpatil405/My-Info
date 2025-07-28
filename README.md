@@ -63,43 +63,14 @@
   <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JAXB-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEDANTMODI21&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEDANTMODI21&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEDANTMODI21&theme=radical&hide_border=false&layout=compact" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEDANTMODI21&theme=tokyo-night&hide_border=true&radius=10" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEDANTMODI21&theme=radical&no-frame=true&row=1&margin-w=10" />
-</div>
-
-## 💼 Featured Projects
-
-### 🌟 Accessibility-First Web Applications
-Creating inclusive digital experiences with screen reader compatibility, high contrast designs, and keyboard navigation.
-
-### 📊 Data Science Projects
-Using Python, ML libraries, and visualizations to extract insights and build predictive models.
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://vedantmodi21.github.io/vedantmodi/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vedant-modi-b99b0628a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/VEDANTMODI21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:vedantmodi2101@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://prasadpatil271105.wixsite.com/my-site"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prasad-patil-739208227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/prasadpatil405"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:prasadpatil27112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -116,6 +87,9 @@ Using Python, ML libraries, and visualizations to extract insights and build pre
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
+<p align="center">
+  <img src="https://github.com/anmol098/anmol098/blob/main/profile-output/waka-readme-stats.svg" alt="WakaTime Stats" />
+</p>
 
 <div align="center">
   “Programs must be written for people to read, and only incidentally for machines to execute.” – *Harold Abelson*  

@@ -87,9 +87,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<p align="center">
-  <img src="https://github.com/anmol098/anmol098/blob/main/profile-output/waka-readme-stats.svg" alt="WakaTime Stats" />
-</p>
+
 
 <div align="center">
   “Programs must be written for people to read, and only incidentally for machines to execute.” – *Harold Abelson*  
